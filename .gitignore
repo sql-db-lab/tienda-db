@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
